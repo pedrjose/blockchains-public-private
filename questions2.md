@@ -119,3 +119,13 @@ d) Porque é mais barato de implementar do que redes descentralizadas.
 ---
 
 GABARITO:
+1. C
+2. B
+3. B
+4. C
+5. B
+6. B
+7. C
+8. B
+9. C
+10. B
